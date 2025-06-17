@@ -1,9 +1,7 @@
-# Silentra: The Silent Voice 🗣️
+# Silentra: Silent Translation: Facilitating Communication for Individuals with Speech Impairments 🗣️
 *A gesture-based communication device that translates hand signs into text, built with Arduino, flex sensors, and custom hardware.*
 
-![Silentra Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA4ZGRucmpwZTVtMTNtcGp1aHhscjR6NnN3amU1ajA5aGcyY3ZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR1tookIhM8nZJm/giphy.gif)
-*(**Suggestion:** Create a short GIF showing your glove in action and replace the link above!)*
-
+![Silentra Demo GIF](Project.gif) <br>
 This project is dedicated to breaking down communication barriers for the mute community by providing an intuitive and accessible tool to express thoughts and words.
 
 [![Arduino](https://img.shields.io/badge/Arduino-Compatible-00979D?style=for-the-badge&logo=arduino)](https://www.arduino.cc/)
