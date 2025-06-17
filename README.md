@@ -99,18 +99,12 @@ To make the Silentra glove robust and easy to assemble, we designed a custom Pri
 ### Version 1.0 (The Original)
 *This was our first prototype, proving the concept and integrating the essential components.*
 
-![Old PCB Schematic](https://via.placeholder.com/600x400.png?text=Add+Image+of+V1+PCB+Here)
-*(**Action:** Replace the placeholder link above with an image of your V1 board)*
-
+<img src="old.png" alt="Old PCB Schematic" width="400"/>
 ### Version 2.0 (The Refined Model)
 *Learning from V1, the second version introduces significant improvements in layout, power management, and durability.*
 
-![New PCB Schematic](https://via.placeholder.com/600x400.png?text=Add+Image+of+V2+PCB+Here)
-*(**Action:** Replace the placeholder link above with an image of your V2 board)*
-
+<img src="new.png" width="400"/>
 ### Comparison: V1 vs. V2
-
-> **(Please fill out this comparison based on your boards!)**
 
 *   **Size & Form Factor**: *e.g., "The V2 board is 30% smaller, making the final device much more lightweight and comfortable."*
 *   **Component Layout**: *e.g., "We repositioned the sensor connectors on V2 for easier glove assembly and to reduce strain on the cables."*
