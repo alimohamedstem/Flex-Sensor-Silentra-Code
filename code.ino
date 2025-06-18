@@ -97,12 +97,6 @@ void loop() {
      letters +=" ";
      Alarm();
   }
-   // Check for removing a letter (when F1, F2, F3, F4 are closed)
-  if (F1 >= min1 && F2 >= min2 && F3 >= min3 && F4 < min4 && F5 < min5) {
-    if (letters.length() > 0) {
-      letters.remove(letters.length() - 1);  // Remove last letter from the second row
-    }
-  }
 
   // Update the second row with the letters accumulated
  lcd.setCursor(0, 1);
